@@ -1,0 +1,5 @@
+[] create card class
+[] create random command
+[] update help command
+[] create cool embeds
+[] enable vultr functionality
